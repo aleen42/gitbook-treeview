@@ -45,6 +45,8 @@ npm test
 
 * ==================== **1.0.0 Initial release** ====================
 	* 1.5.7 release version
+	* 1.5.8 fix bugs
+	* 1.5.9 fix bugs of chinese
 
 #### :fuelpump: How to contribute
 

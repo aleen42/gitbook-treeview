@@ -7,7 +7,7 @@
   },
   "main": "./lib/index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "make test"
   },
   "repository": {
     "type": "git",

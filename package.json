@@ -1,0 +1,34 @@
+{
+  "name": "gitbook-plugin-page-treeview",
+  "version": "1.0.0",
+  "description": "a gitbook plugin for generating a treeview of each page",
+  "engines": {
+    "gitbook": ">=3.0.0-pre.0"
+  },
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleen42/gitbook-treeview.git"
+  },
+  "keywords": [
+    "gitbook-plugin",
+    "gitbook",
+    "treeview"
+  ],
+  "author": "aleen42 <aleen42@vip.qq.com> (http://aleen42.github.io/pc.html)",
+  "contributors": [
+    "aleen42 <aleen42@vip.qq.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aleen42/gitbook-treeview/issues"
+  },
+  "homepage": "https://github.com/aleen42/gitbook-treeview#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}

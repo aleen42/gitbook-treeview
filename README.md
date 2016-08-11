@@ -47,6 +47,7 @@ npm test
 	* 1.5.7 release version
 	* 1.5.8 fix bugs
 	* 1.5.9 fix bugs of chinese
+	* 1.6.1 fix bugs of text indent in markdown style
 
 #### :fuelpump: How to contribute
 

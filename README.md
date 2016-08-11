@@ -1,5 +1,7 @@
 ## page-treeview
 
+[![Join the chat at https://gitter.im/aleen42/gitbook-treeview](https://badges.gitter.im/aleen42/gitbook-treeview.svg)](https://gitter.im/aleen42/gitbook-treeview?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Pay](https://img.shields.io/badge/%24-free-%23a10000.svg)](#) [![GitHub issues](https://img.shields.io/github/issues/aleen42/gitbook-treeview.svg)](https://github.com/aleen42/gitbook-treeview/issues) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/aleen42/gitbook-treeview/master/LICENSE) [![Gitter](https://badges.gitter.im/aleen42/gitbook-treeview.svg)](https://gitter.im/aleen42/gitbook-treeview?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 [![npm](https://img.shields.io/npm/v/gitbook-plugin-page-treeview.svg)](https://www.npmjs.com/package/gitbook-plugin-page-treeview) [![Build Status](https://travis-ci.org/aleen42/gitbook-treeview.svg?branch=master)](https://travis-ci.org/aleen42/gitbook-treeview) [![devDependency Status](https://david-dm.org/aleen42/gitbook-treeview/dev-status.svg)](https://david-dm.org/aleen42/gitbook-treeview#info=devDependencies) [![npm](https://img.shields.io/npm/dt/gitbook-plugin-page-treeview.svg)](https://www.npmjs.com/package/gitbook-plugin-page-treeview)

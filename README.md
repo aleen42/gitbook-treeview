@@ -31,7 +31,8 @@ configuration option can be set as an obj like, and of course you can use a defa
 	],
 	"pluginsConfig": {
 		"page-treview": {
-			"style": "markdown"
+			"style": "markdown",
+			"copyright": "Copyright &#169; aleen42"
 		}
 	}
 }

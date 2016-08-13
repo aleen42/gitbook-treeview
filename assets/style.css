@@ -44,6 +44,7 @@
 
 .treeview__container {
 	position: relative;
+	margin-bottom: 50px !important;
 }
 
 .treeview__container-title {

@@ -57,6 +57,7 @@ npm test
 * ==================== **2.0.0 Style release** ====================
 	* 2.0.1 update style
 	* 2.0.2 update style
+	* 2.0.5 update style
 
 #### :fuelpump: How to contribute
 

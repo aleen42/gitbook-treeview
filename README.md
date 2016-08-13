@@ -6,7 +6,7 @@
 
 a gitbook-plugin for generating a treeview for each page.
 
-![](./1.png);
+![](./1.png)
 
 #### Installation
 

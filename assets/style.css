@@ -44,13 +44,13 @@
 
 .treeview__container {
 	position: relative;
-	margin-bottom: 50px !important;
+	margin-bottom: 80px !important;
 }
 
 .treeview__container-title {
 	position: absolute;
     right: 0;
-    bottom: -30px;
+    bottom: -50px;
 }
 
 .treeview__main-title {

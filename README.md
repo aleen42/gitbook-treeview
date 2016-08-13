@@ -56,6 +56,7 @@ npm test
 	* 1.8.3 fix bugs
 * ==================== **2.0.0 Style release** ====================
 	* 2.0.1 update style
+	* 2.0.2 update style
 
 #### :fuelpump: How to contribute
 

@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-page-treeview",
-  "version": "1.8.3",
+  "version": "2.0.0",
   "description": "a gitbook plugin for generating a treeview of each page",
   "engines": {
     "gitbook": ">=3.0.0-pre.0"
@@ -27,7 +27,8 @@
     "url": "https://github.com/aleen42/gitbook-treeview/issues"
   },
   "homepage": "https://github.com/aleen42/gitbook-treeview#readme",
-  "dependencies" : {
+  "dependencies": {
+    "remarkable": "^1.6.2",
     "remove-markdown": "^0.1.0"
   },
   "devDependencies": {

@@ -30,6 +30,10 @@ const should = require('chai').should();
 
 describe('tests', function () {
     it('test case 1', function () {
-        gitbookTreeview.test({}).should.to.contain('');
+        gitbookTreeview.test({}, '#abc\n##cde\n').should.to.equal('<div class="treeview__container"><div class="treeview__container-title"><span class="treeview__main-title">Treeview</span><span class="treeview__copyright">Copyright &#169; aleen42 all right reserved, powered by <a href="https://github.com/aleen42" target="_blank">aleen42</a></span></div><ul>\n<li><a href="#abc">abc</a>\n<ul>\n<li><a href="#cde">cde</a></li>\n</ul></li>\n</ul>\n</div>');
+    });
+
+    it('test case 2', function () {
+        gitbookTreeview.test({copyright: 'Copyright &#169; alien'}, '#1. abc\n##1.1 cde\n').should.to.equal('<div class="treeview__container"><div class="treeview__container-title"><span class="treeview__main-title">Treeview</span><span class="treeview__copyright">Copyright &#169; alien all right reserved, powered by <a href="https://github.com/aleen42" target="_blank">aleen42</a></span></div><ul>\n<li><a href="#1-abc">abc</a>\n<ul>\n<li><a href="#11-cde">1.1 cde</a></li>\n</ul></li>\n</ul>\n</div>');
     });
 });

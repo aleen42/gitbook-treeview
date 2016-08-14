@@ -6,7 +6,7 @@
 
 a gitbook-plugin for generating a treeview for each page.
 
-![](./1.png)
+<img src="./1.png">
 
 #### Installation
 
@@ -59,6 +59,7 @@ npm test
 	* 2.0.2 update style
 	* 2.0.5 update style
 	* 2.0.6 update style
+	* 2.0.7 update readme
 
 #### :fuelpump: How to contribute
 

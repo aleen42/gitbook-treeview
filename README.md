@@ -108,6 +108,7 @@ npm test
 	* 2.3.5 fix bugs
 	* 2.3.7 fix bugs
 	* 2.3.8 update readme
+	* 2.4.0 update configuration
 
 #### :fuelpump: How to contribute
 

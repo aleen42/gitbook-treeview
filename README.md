@@ -62,6 +62,7 @@ npm test
 	* 2.0.7 update readme
 	* 2.1.3 fix bugs
 	* 2.2.1 fix bugs
+	* 2.2.2 fix bugs
 
 #### :fuelpump: How to contribute
 

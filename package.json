@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-page-treeview",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "a gitbook plugin for generating a treeview of each page",
   "engines": {
     "gitbook": ">=3.0.0-pre.0"

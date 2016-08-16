@@ -53,8 +53,8 @@ Treeview will only generate treeviews for header between level 1 and 6. Here I'l
 
 ###### 3-4-2-3-4-5-1-2-3
 
-- 
-	- 
+- empty 
+	- empty 
 		- 3
 			- 4
 	- 2
@@ -71,13 +71,12 @@ Treeview will only generate treeviews for header between level 1 and 6. Here I'l
 	- 2
 		- 3
 - 1
-	- 
+	- empty 
 		- 3
 			- 4
 				- 5
 - 1
 	- 2
-
 
 #### Tests
 
@@ -106,6 +105,7 @@ npm test
 	* 2.2.2 fix bugs
 	* 2.3.0 fix bugs
 	* 2.3.4 fix bugs
+	* 2.3.5 fix bugs
 
 #### :fuelpump: How to contribute
 

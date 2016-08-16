@@ -38,6 +38,47 @@ configuration option can be set as an obj like, and of course you can use a defa
 }
 ```
 
+#### What Treeview looks like in Markdown?
+
+Treeview will only generate treeviews for header between level 1 and 6. Here I'll list some cases with different structure (each number means the level a head tag, like 1 for &lt;h1&gt;):
+
+###### 1-1-2-3-4-1
+
+- 1
+- 1
+	- 2
+		- 3
+			- 4
+- 1
+
+###### 3-4-2-3-4-5-1-2-3
+
+- 
+	- 
+		- 3
+			- 4
+	- 2
+		- 3
+			- 4
+				- 5
+- 1
+	- 2
+		- 3
+
+###### 1-2-3-1-3-4-5-1-2
+
+- 1
+	- 2
+		- 3
+- 1
+	- 
+		- 3
+			- 4
+				- 5
+- 1
+	- 2
+
+
 #### Tests
 
 ```bash
@@ -64,6 +105,7 @@ npm test
 	* 2.2.1 fix bugs
 	* 2.2.2 fix bugs
 	* 2.3.0 fix bugs
+	* 2.3.4 fix bugs
 
 #### :fuelpump: How to contribute
 

@@ -110,6 +110,7 @@ npm test
 	* 2.3.8 update readme
 	* 2.4.0 update configuration
 	* 2.4.1 restrict reading book
+	* 2.4.3 fix bugs
 
 #### :fuelpump: How to contribute
 

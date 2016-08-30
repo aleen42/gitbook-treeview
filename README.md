@@ -111,6 +111,7 @@ npm test
 	* 2.4.0 update configuration
 	* 2.4.1 restrict reading book
 	* 2.4.3 fix bugs
+	* 2.4.4 fix bugs
 
 #### :fuelpump: How to contribute
 

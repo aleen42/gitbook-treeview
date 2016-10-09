@@ -30,7 +30,7 @@ configuration option can be set as an obj like, and of course you can use a defa
 		"page-treeview"
 	],
 	"pluginsConfig": {
-		"page-treview": {
+		"page-treeview": {
 			"style": "markdown",
 			"copyright": "Copyright &#169; aleen42"
 		}
@@ -112,6 +112,7 @@ npm test
 	* 2.4.1 restrict reading book
 	* 2.4.3 fix bugs
 	* 2.4.4 fix bugs
+	* 2.4.5 update readme
 
 #### :fuelpump: How to contribute
 

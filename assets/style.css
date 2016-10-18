@@ -51,7 +51,7 @@
 .treeview__container-title {
 	position: absolute;
     right: 0;
-    bottom: 0;
+    bottom: -35px;
     border-bottom: 1px solid #ccc;
 }
 

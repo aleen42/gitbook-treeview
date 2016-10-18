@@ -113,6 +113,8 @@ npm test
 	* 2.4.3 fix bugs
 	* 2.4.4 fix bugs
 	* 2.4.5 update readme
+	* 2.4.9 fix bugs
+	* 2.5.0 update readme
 
 #### :fuelpump: How to contribute
 

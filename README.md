@@ -32,7 +32,9 @@ configuration option can be set as an obj like, and of course you can use a defa
 	"pluginsConfig": {
 		"page-treeview": {
 			"style": "markdown",
-			"copyright": "Copyright &#169; aleen42"
+			"copyright": "Copyright &#169; aleen42",
+			"minHeaderCount": "1",
+			"minHeaderDeep": "1"
 		}
 	}
 }
@@ -115,6 +117,10 @@ npm test
 	* 2.4.5 update readme
 	* 2.4.9 fix bugs
 	* 2.5.0 update readme
+	* 2.5.8 enhancement for issue [#2](https://github.com/aleen42/gitbook-treeview/issues/2)
+	* 2.5.9 update default value
+	* 2.6.1 fix bugs
+	* 2.6.5 fix bugs
 
 #### :fuelpump: How to contribute
 

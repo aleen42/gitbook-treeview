@@ -121,6 +121,7 @@ npm test
 	* 2.5.9 update default value
 	* 2.6.1 fix bugs
 	* 2.6.5 fix bugs
+	* 2.6.7 fix bugs
 
 #### :fuelpump: How to contribute
 

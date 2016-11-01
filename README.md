@@ -6,7 +6,7 @@
 
 a gitbook-plugin for generating a treeview for each page.
 
-<img src="https://raw.githubusercontent.com/aleen42/gitbook-treeview/master/1.png">
+![page-treeview](https://raw.githubusercontent.com/aleen42/gitbook-treeview/master/1.png)
 
 ### Installation
 
@@ -123,6 +123,7 @@ npm test
 	* 2.6.5 fix bugs
 	* 2.6.7 fix bugs
 	* 2.6.8 update readme
+	* 2.6.9 update readme
 
 ### :fuelpump: How to contribute
 

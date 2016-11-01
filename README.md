@@ -8,7 +8,7 @@ a gitbook-plugin for generating a treeview for each page.
 
 <img src="https://raw.githubusercontent.com/aleen42/gitbook-treeview/master/1.png">
 
-#### Installation
+### Installation
 
 add the following plugins to your `book.json` and run `gitbook install`
 
@@ -18,7 +18,7 @@ add the following plugins to your `book.json` and run `gitbook install`
 }
 ```
 
-#### Usage
+### Usage
 
 just find plugin on gitbook and install it on your gitbook project.
 
@@ -40,11 +40,11 @@ configuration option can be set as an obj like, and of course you can use a defa
 }
 ```
 
-#### What Treeview looks like in Markdown?
+### What Treeview looks like in Markdown?
 
 Treeview will only generate treeviews for header between level 1 and 6. Here I'll list some cases with different structure (each number means the level a head tag, like 1 for &lt;h1&gt;):
 
-###### 1-1-2-3-4-1
+##### 1-1-2-3-4-1
 
 - 1
 - 1
@@ -53,7 +53,7 @@ Treeview will only generate treeviews for header between level 1 and 6. Here I'l
 			- 4
 - 1
 
-###### 3-4-2-3-4-5-1-2-3
+##### 3-4-2-3-4-5-1-2-3
 
 - &nbsp; 
 	- &nbsp; 
@@ -67,7 +67,7 @@ Treeview will only generate treeviews for header between level 1 and 6. Here I'l
 	- 2
 		- 3
 
-###### 1-2-3-1-3-4-5-1-2
+##### 1-2-3-1-3-4-5-1-2
 
 - 1
 	- 2
@@ -80,13 +80,13 @@ Treeview will only generate treeviews for header between level 1 and 6. Here I'l
 - 1
 	- 2
 
-#### Tests
+### Tests
 
 ```bash
 npm test
 ```
 
-#### Release History
+### Release History
 
 * ==================== **1.0.0 Initial release** ====================
 	* 1.5.7 release version
@@ -122,11 +122,12 @@ npm test
 	* 2.6.1 fix bugs
 	* 2.6.5 fix bugs
 	* 2.6.7 fix bugs
+	* 2.6.8 update readme
 
-#### :fuelpump: How to contribute
+### :fuelpump: How to contribute
 
 Have an idea? Found a bug? See [how to contribute](https://aleen42.gitbooks.io/personalwiki/content/contribution.html).
 
-#### :scroll: License
+### :scroll: License
 
 [MIT](https://aleen42.gitbooks.io/personalwiki/content/MIT.html) © aleen42

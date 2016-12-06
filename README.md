@@ -126,6 +126,7 @@ npm test
 	* 2.6.9 update readme
 	* 2.7.2 fix bugs
 	* 2.7.3 update readme
+	* 2.7.4 disable console
 
 ### :fuelpump: How to contribute
 

@@ -1,13 +1,13 @@
 {
   "name": "gitbook-plugin-page-treeview",
-  "version": "2.7.7",
+  "version": "2.9.5",
   "description": "a gitbook plugin for generating a treeview of each page",
   "engines": {
     "gitbook": ">=3.0.0-pre.0"
   },
   "main": "./lib/index.js",
   "scripts": {
-    "test": "make test"
+    "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -41,11 +41,6 @@
         "type": "string",
         "default": "Copyright © aleen42",
         "title": "Description for your Copyright"
-      },
-      "style": {
-        "type": "string",
-        "default": "markdown",
-        "description": "choose your page treeview style (markdown)"
       },
       "minHeaderCount": {
         "type": "string",

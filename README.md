@@ -4,7 +4,7 @@
 
 [![npm](https://img.shields.io/npm/v/gitbook-plugin-page-treeview.svg)](https://www.npmjs.com/package/gitbook-plugin-page-treeview) [![Build Status](https://travis-ci.org/aleen42/gitbook-treeview.svg?branch=master)](https://travis-ci.org/aleen42/gitbook-treeview) [![devDependency Status](https://david-dm.org/aleen42/gitbook-treeview/dev-status.svg)](https://david-dm.org/aleen42/gitbook-treeview#info=devDependencies) [![npm](https://img.shields.io/npm/dt/gitbook-plugin-page-treeview.svg)](https://www.npmjs.com/package/gitbook-plugin-page-treeview)
 
-a gitbook-plugin for generating a treeview for each page.
+a gitbook-plugin for generating a "Treeview" for each page.
 
 ![page-treeview](https://raw.githubusercontent.com/aleen42/gitbook-treeview/master/1.png)
 
@@ -31,10 +31,9 @@ configuration option can be set as an obj like, and of course you can use a defa
 	],
 	"pluginsConfig": {
 		"page-treeview": {
-			"style": "markdown",
 			"copyright": "Copyright &#169; aleen42",
-			"minHeaderCount": "1",
-			"minHeaderDeep": "1"
+			"minHeaderCount": "2",
+			"minHeaderDeep": "2"
 		}
 	}
 }
@@ -55,8 +54,8 @@ Treeview will only generate treeviews for header between level 1 and 6. Here I'l
 
 ##### 3-4-2-3-4-5-1-2-3
 
-- &nbsp; 
-	- &nbsp; 
+- &nbsp;
+	- &nbsp;
 		- 3
 			- 4
 	- 2
@@ -67,13 +66,17 @@ Treeview will only generate treeviews for header between level 1 and 6. Here I'l
 	- 2
 		- 3
 
+<a>
+
+</a>
+
 ##### 1-2-3-1-3-4-5-1-2
 
 - 1
 	- 2
 		- 3
 - 1
-	- &nbsp; 
+	- &nbsp;
 		- 3
 			- 4
 				- 5
@@ -127,7 +130,8 @@ npm test
 	* 2.7.2 fix bugs
 	* 2.7.3 update readme
 	* 2.7.4 disable console
-	* 2.7.7 fix bugs
+    * 2.7.7 fix bugs
+	* 2.9.5 featuring collapsible lists
 
 ### :fuelpump: How to contribute
 

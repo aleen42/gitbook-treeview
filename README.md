@@ -132,7 +132,8 @@ npm test
 	* 2.7.4 disable console
     * 2.7.7 fix bugs
     * 2.9.5 featuring collapsible lists
-	* 2.9.6 update readme
+    * 2.9.6 update readme
+	* 2.9.7 fix bugs
 
 ### :fuelpump: How to contribute
 

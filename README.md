@@ -134,6 +134,7 @@ npm test
     * 2.9.5 featuring collapsible lists
     * 2.9.6 update readme
 	* 2.9.7 fix bugs
+	* 2.9.8 fix the bug of stripping list leader when removing markdown of titles
 
 ### :fuelpump: How to contribute
 

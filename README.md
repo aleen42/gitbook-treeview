@@ -136,6 +136,7 @@ npm test
 	* 2.9.7 fix bugs
 	* 2.9.8 fix the bug of stripping list leader when removing markdown of titles
 * ==================== **3.0.0 Refactor release** ====================
+    * 3.0.1 fix the bug when calculating headers' level
 
 ### :fuelpump: How to contribute
 

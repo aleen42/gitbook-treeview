@@ -29,7 +29,8 @@
   "homepage": "https://github.com/aleen42/gitbook-treeview#readme",
   "dependencies": {
     "remarkable": "^1.6.2",
-    "remove-markdown": "^0.1.0"
+    "remove-markdown": "^0.1.0",
+    "node-html-parser": "^1.2.20"
   },
   "devDependencies": {
     "chai": "^3.5.0",
@@ -51,6 +52,11 @@
         "type": "string",
         "default": "1",
         "description": "the minimum of the depth of headers"
+      },
+      "collapsed": {
+        "type": "boolean",
+        "default": false,
+        "description": "whether collapse subheaders by default"
       }
     }
   }

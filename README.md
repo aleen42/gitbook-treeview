@@ -41,7 +41,7 @@ configuration option can be set as an obj like, and of course you can use a defa
 
 ### What Treeview looks like in Markdown?
 
-Treeview will only generate treeviews for header between level 1 and 6. Here I'll list some cases with different structure (each number means the level a head tag, like 1 for &lt;h1&gt;):
+Treeview will only generate treeviews for headers between level 1 and 6. Here I'll list some cases with different structure (each number means the level a head tag, like 1 for &lt;h1&gt;):
 
 ##### 1-1-2-3-4-1
 
@@ -137,6 +137,7 @@ npm test
 	* 2.9.8 fix the bug of stripping list leader when removing markdown of titles
 * ==================== **3.0.0 Refactor release** ====================
     * 3.0.1 fix the bug when calculating headers' level
+    * 3.0.2 support collapsed option (`false` by default) [#8](https://github.com/aleen42/gitbook-treeview/issues/8)
 
 ### :fuelpump: How to contribute
 

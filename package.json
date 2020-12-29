@@ -28,9 +28,9 @@
   },
   "homepage": "https://github.com/aleen42/gitbook-treeview#readme",
   "dependencies": {
-    "remarkable": "^1.6.2",
-    "marked": "^1.2.7",
-    "node-html-parser": "^1.2.20"
+    "remarkable": "1.6.2",
+    "marked": "1.2.7",
+    "node-html-parser": "1.2.20"
   },
   "devDependencies": {
     "chai": "^3.5.0",

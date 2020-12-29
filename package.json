@@ -29,7 +29,7 @@
   "homepage": "https://github.com/aleen42/gitbook-treeview#readme",
   "dependencies": {
     "remarkable": "^1.6.2",
-    "remove-markdown": "^0.1.0",
+    "marked": "^1.2.7",
     "node-html-parser": "^1.2.20"
   },
   "devDependencies": {

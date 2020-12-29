@@ -138,6 +138,7 @@ npm test
 * ==================== **3.0.0 Refactor release** ====================
     * 3.0.1 fix the bug when calculating headers' level
     * 3.0.2 support collapsed option (`false` by default) [#8](https://github.com/aleen42/gitbook-treeview/issues/8)
+    * 3.0.3 use [marked](https://github.com/markedjs/marked) to convert markdown into plain text
 
 ### :fuelpump: How to contribute
 

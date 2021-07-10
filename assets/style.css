@@ -14,12 +14,12 @@
 }
 
 .level__parent--hidden::after {
-    border-top: 5px solid #000;
+    border-top: 5px solid var(--color-text-primary, #24292f);
     margin-top: 5px;
 }
 
 .level__parent--opened::after {
-    border-bottom: 5px solid #000;
+    border-bottom: 5px solid var(--color-text-primary, #24292f);
     margin-bottom: 5px;
 }
 
@@ -41,7 +41,8 @@
 	position: absolute;
     right: 0;
     bottom: -35px;
-    border-bottom: 1px solid #ccc;
+    /* depends on: gitbook-plugin-color */
+    border-bottom: 1px solid var(--color-book-border, rgba(255, 255, 255, 0.2));
 }
 
 .treeview__main-title {
